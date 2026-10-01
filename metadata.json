@@ -1,0 +1,6 @@
+{
+  "name": "அரசு சேவைகள் தமிழ் குரல் வழிகாட்டி - Government Services for Women",
+  "description": "Speak in your language. A respectful, patient voice-first AI guide helping women discover government schemes in simple spoken Tamil.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
